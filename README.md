@@ -1,6 +1,6 @@
 ### Hi there, I am Rahul RC - aka [Mister RC][twitter] 👋
 
-## I am learning Cyber security stuff 70% in of my day.
+## I am learning Cyber security stuff 60-70% in of my day.
 - 🔭 I’m currently in Learning Reverse engineering.
 - 🌱 I’ve good experience in Bug Hunting. 
 - 🥅 2020 Goals: Learn reverse engineering!
