@@ -4,7 +4,7 @@
 - 🔭 I’m currently in Learning Reverse engineering.
 - 🌱 I’ve good experience in Bug Hunting. 
 - 🥅 2020 Goals: Learn reverse engineering!
-- ⚡ Fun fact: I am theoretically the Youngest Hacker of India(Who actually have good experince and knowledge).
+- ⚡ Fun fact: I am the member of resethacker.
 
 ### Connect with me:
 
