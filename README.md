@@ -4,7 +4,7 @@
 - 🔭 I’m currently in Learning Reverse engineering.
 - 🌱 I’ve good experience in Bug Hunting. 
 - 🥅 2020 Goals: Learn reverse engineering!
-- ⚡ Fun fact: I am the member of resethacker.
+- ⚡ I am a member of resethacker.
 
 ### Connect with me:
 
