@@ -1,4 +1,4 @@
-### Hi there, I am Rahul RC - aka [Mister RC][twitter] 👋
+### Hi there, I am RC - aka [Mister RC][twitter] 👋
 
 ## I am learning Cyber security stuff 60-70% in of my day.
 - 🔭 I’m currently in Learning Reverse engineering.
