@@ -3,7 +3,7 @@
 ## I am learning Cyber security stuff 60-70% in of my day.
 - 🔭 I’m currently in Learning Reverse engineering.
 - 🌱 I’ve good experience in Bug Hunting. 
-- 🥅 2020 Goals: Learn reverse engineering!
+- 🥅 2021 Goals: Learn reverse engineering!
 - ⚡ I am a member of resethacker.
 
 ### Connect with me:
