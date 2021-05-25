@@ -1,10 +1,5 @@
 ### Hi there, I am RC - aka [Mister RC][twitter] 👋
-
-## I am learning Cyber security stuff 60-70% in of my day.
-- 🔭 I’m currently in Learning Reverse engineering.
-- 🌱 I’ve good experience in Bug Hunting. 
-- 🥅 2021 Goals: Learn reverse engineering!
-- ⚡ I am a member of resethacker.
+I am a member of thehackerscrew ctf team, our team is one of the top 100 team at ctftime.org. I mostly do reverse engineering and programming related challenges.
 
 ### Connect with me:
 
