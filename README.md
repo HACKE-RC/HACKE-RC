@@ -1,3 +1,3 @@
-I like Reverse engineering, Exploit Development and Windows Internals.
+I love to study Low-Level CS stuff.
 
 blogs: https://de-engineer.github.io
