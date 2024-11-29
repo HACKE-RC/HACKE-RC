@@ -2,3 +2,4 @@ I love [Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing), Low
     
 site: https://rcx86.me    
 blogs: https://de-engineer.github.io 
+zathuradbg: https://zathuradbg.github.io
