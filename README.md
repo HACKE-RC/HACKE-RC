@@ -1,4 +1,4 @@
-I love [Reverse Engineering](https://github.com/HACKE-RC/awesome-reversing), Low-Level Computer Science Research and everything that makes me curious.   
+I love [reverse engineering](https://github.com/HACKE-RC/awesome-reversing), low level computer science and everything that makes me curious.   
 Previously Agentic Research @ Pwno. Currently @ Stealth.        
     
 site: https://rcx86.me    
