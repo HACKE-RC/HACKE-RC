@@ -3,5 +3,5 @@ Currently, Founding @ Stealth. Previously Agents for Security Research @ Pwno.
 
 site: https://rcx86.me    
 blogs: https://de-engineer.github.io    
-zathuradbg: https://zathura.dev
+zathuradbg: https://zathura.dev    
 projects: https://rcx86.me/projects
